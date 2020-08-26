@@ -1,0 +1,88 @@
+h1 {
+    position: absolute;
+    width: 619px;
+    height: 160px;
+    left: calc(50% - 619px/2 + 12.5px);
+    top: calc(50% - 160px/2 - 410px);
+    
+    font-family: Marck Script;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 90px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    
+  
+}
+.prikol {
+    position: absolute;
+width: 300px;
+height: 400px;
+left: 320px;
+top: 310px;
+
+background: #863636;
+box-shadow: -4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.prikol2{
+    position: absolute;
+    width: 600px;
+    height: 440px;
+    left: 660px;
+    top: 290px;
+    
+    background: #863636;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);}
+.prikol3{
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    left: 1300px;
+    top: 310px;
+    
+    background: #863636;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.da {
+    position: absolute;
+width: 1100px;
+height: 138px;
+left: 410px;
+top: 770px;
+
+font-family: Łucznik 1303 Plus;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+   
+.il {
+    position: absolute;
+width: 162.23px;
+height: 160px;
+left: 50px;
+top: 50px;
+
+background: url(icons8-calendar-160.png);
+}
+.li {
+    position: absolute;
+width: 60px;
+height: 60px;
+right: 238px;
+top: 100px;
+
+background: url(icons8-search-100.png);
+}
+
+.kv {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    right: 150px;
+    top: 100px;
+}
